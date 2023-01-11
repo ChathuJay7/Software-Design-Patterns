@@ -15,7 +15,7 @@
 - [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
 - [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
 
-### BEHAVIOURAL
+## BEHAVIOURAL
 - [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) 
 - [Visitor Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Visitor%20Pattern)
 - [Strategy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Strategy%20Pattern) 
