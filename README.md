@@ -1,4 +1,4 @@
-# Software Design Patterns by Java
+# Software Design Patterns in Java
 
 ## CREATIONAL
 - [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) 
