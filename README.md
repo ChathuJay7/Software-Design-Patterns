@@ -1,13 +1,13 @@
 # Design Patterns by using the Java
 
-## 01 - CREATIONAL
+## CREATIONAL
 - [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) 
 - [Factory Method Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Factory%20Method%20Pattern) 
 - [Abstract Factory Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Abstract%20Factory%20Pattern) 
 - [Builder Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Builder%20Pattern) 
 - [Prototype Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Prototype%20Pattern)
 
-## 02 - STRUCTURAL
+## STRUCTURAL
 - [Decorator Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Decorator%20Pattern) 
 - [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
 - [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
@@ -15,7 +15,7 @@
 - [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
 - [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
 
-## 03 - BEHAVIOURAL
+### BEHAVIOURAL
 - [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) 
 - [Visitor Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Visitor%20Pattern)
 - [Strategy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Strategy%20Pattern) 
