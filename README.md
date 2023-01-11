@@ -2,7 +2,7 @@
 
 ## CREATIONAL
 - [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) 
-- [Factory Method Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Factory%20Method%20Pattern) 
+- [Factory attern](Design%20Patterns/CREATIONAL/Factory%20Pattern) ✅
 - [Abstract Factory Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Abstract%20Factory%20Pattern) 
 - [Builder Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Builder%20Pattern) 
 - [Prototype Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Prototype%20Pattern)
@@ -11,7 +11,7 @@
 - [Decorator Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Decorator%20Pattern) 
 - [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
 - [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
-- [Facade Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Facade%20Pattern) ✅
+- [Facade Pattern](Design%20Patterns/STRUCTURAL/Facade%20Pattern) ✅
 - [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
 - [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
 
