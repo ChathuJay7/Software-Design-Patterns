@@ -15,7 +15,7 @@ public class Main {
         System.out.println("3 - Samsung");
         System.out.println("4 - All Brands");
         
-        System.out.print("\nInput your brand (1/2/3) : ");
+        System.out.print("\nInput your brand (1/2/3/4) : ");
         String choice = scanner.nextLine();
         
         PhoneFacade phoneFacade = new PhoneFacade();
