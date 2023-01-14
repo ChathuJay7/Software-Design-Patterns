@@ -8,7 +8,7 @@
 - [Prototype Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Prototype%20Pattern)
 
 ## STRUCTURAL
-- [Decorator Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Decorator%20Pattern) ✅
+- [Decorator Pattern](Design%20Patterns/STRUCTURAL/Decorator%20Pattern) ✅
 - [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
 - [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
 - [Facade Pattern](Design%20Patterns/STRUCTURAL/Facade%20Pattern) ✅
