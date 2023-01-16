@@ -13,7 +13,7 @@
 - [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
 - [Facade Pattern](Design%20Patterns/STRUCTURAL/Facade%20Pattern) ✅
 - [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
-- [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
+- [Proxy Pattern](Design%20Patterns/STRUCTURAL/Proxy%20Pattern) ✅
 
 ## BEHAVIOURAL
 - [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) 
