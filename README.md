@@ -26,7 +26,7 @@
 - [Iterator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Iterator%20Pattern)
 - [Interpreter Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Interpreter%20Pattern)
 - [Command Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Command%20Pattern)
-- [Chain of Responsibility Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Chain%20of%20Responsibility%20Pattern)
+- [Chain of Responsibility Pattern](Design%20Patterns/BEHAVIOURAL/Chain%20of%20Responsibility%20Pattern) ✅
 
 
 ### Resources
