@@ -1,7 +1,7 @@
 # Software Design Patterns in Java
 
 ## CREATIONAL
-- [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) 
+- [Singleton Pattern](Design%20Patterns/CREATIONAL/Singleton%20Pattern) ✅
 - [Factory Pattern](Design%20Patterns/CREATIONAL/Factory%20Pattern) ✅
 - [Abstract Factory Pattern](Design%20Patterns/CREATIONAL/Abstract%20Factory%20Pattern) ✅
 - [Builder Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Builder%20Pattern) 
