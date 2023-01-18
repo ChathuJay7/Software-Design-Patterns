@@ -18,7 +18,7 @@
 ## BEHAVIOURAL
 - [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) 
 - [Visitor Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Visitor%20Pattern)
-- [Strategy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Strategy%20Pattern) 
+- [Strategy Pattern](Design%20Patterns/BEHAVIOURAL/Strategy%20Pattern) ✅
 - [State Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/State%20Pattern)
 - [Observer Pattern](Design%20Patterns/BEHAVIOURAL/Observer%20Pattern) ✅
 - [Memento Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Memento%20Pattern)
