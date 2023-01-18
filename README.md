@@ -4,28 +4,28 @@
 - [Singleton Pattern](Design%20Patterns/CREATIONAL/Singleton%20Pattern) ✅
 - [Factory Pattern](Design%20Patterns/CREATIONAL/Factory%20Pattern) ✅
 - [Abstract Factory Pattern](Design%20Patterns/CREATIONAL/Abstract%20Factory%20Pattern) ✅
-- [Builder Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Builder%20Pattern) 
-- [Prototype Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Prototype%20Pattern)
+- [Builder Pattern]
+- [Prototype Pattern]
 
 ## STRUCTURAL
 - [Decorator Pattern](Design%20Patterns/STRUCTURAL/Decorator%20Pattern) ✅
-- [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
-- [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
+- [Bridge Pattern]
+- [Composite Pattern]
 - [Facade Pattern](Design%20Patterns/STRUCTURAL/Facade%20Pattern) ✅
-- [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
+- [Flyweight Pattern]
 - [Proxy Pattern](Design%20Patterns/STRUCTURAL/Proxy%20Pattern) ✅
 
 ## BEHAVIOURAL
-- [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) 
-- [Visitor Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Visitor%20Pattern)
+- [Template Method Pattern]
+- [Visitor Pattern]
 - [Strategy Pattern](Design%20Patterns/BEHAVIOURAL/Strategy%20Pattern) ✅
-- [State Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/State%20Pattern)
+- [State Pattern]
 - [Observer Pattern](Design%20Patterns/BEHAVIOURAL/Observer%20Pattern) ✅
-- [Memento Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Memento%20Pattern)
+- [Memento Pattern]
 - [Mediator Pattern](Design%20Patterns/BEHAVIOURAL/Mediator%20Pattern) ✅
-- [Iterator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Iterator%20Pattern)
-- [Interpreter Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Interpreter%20Pattern)
-- [Command Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Command%20Pattern)
+- [Iterator Pattern]
+- [Interpreter Pattern]
+- [Command Pattern]
 - [Chain of Responsibility Pattern](Design%20Patterns/BEHAVIOURAL/Chain%20of%20Responsibility%20Pattern) ✅
 
 
