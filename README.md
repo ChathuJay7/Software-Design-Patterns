@@ -22,7 +22,7 @@
 - [State Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/State%20Pattern)
 - [Observer Pattern](Design%20Patterns/BEHAVIOURAL/Observer%20Pattern) ✅
 - [Memento Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Memento%20Pattern)
-- [Mediator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Mediator%20Pattern)
+- [Mediator Pattern](Design%20Patterns/BEHAVIOURAL/Mediator%20Pattern) ✅
 - [Iterator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Iterator%20Pattern)
 - [Interpreter Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Interpreter%20Pattern)
 - [Command Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Command%20Pattern)
