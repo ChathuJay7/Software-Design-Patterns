@@ -16,7 +16,7 @@
 - [Proxy Pattern](Design%20Patterns/STRUCTURAL/Proxy%20Pattern) ✅
 
 ## BEHAVIOURAL
-- [Template Method Pattern]
+- [Template Pattern](Design%20Patterns/BEHAVIOURAL/Template%20Pattern) ✅
 - [Visitor Pattern]
 - [Strategy Pattern](Design%20Patterns/BEHAVIOURAL/Strategy%20Pattern) ✅
 - [State Pattern]
