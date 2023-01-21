@@ -4,7 +4,7 @@
 - [Singleton Pattern](Software%20Design%20Patterns/CREATIONAL/Singleton%20Pattern) ✅
 - [Factory Pattern](Software%20Design%20Patterns/CREATIONAL/Factory%20Pattern) ✅
 - [Abstract Factory Pattern](Software%20Design%20Patterns/CREATIONAL/Abstract%20Factory%20Pattern) ✅
-- [Builder Pattern](Software%20Design%20Patterns/CREATIONAL/Builder%20Pattern/Builder%20Pattern) ✅
+- [Builder Pattern](Software%20Design%20Patterns/CREATIONAL/Builder%20Pattern) ✅
 - Prototype Pattern
 
 ## STRUCTURAL
